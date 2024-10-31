@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: music-store-stripe-addon\n"
+"POT-Creation-Date: 2022-08-27 03:14+0200\n"
+"PO-Revision-Date: 2022-08-27 03:14+0200\n"
+"Last-Translator: CodePeople\n"
+"Language-Team: codepeople\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: stripe.addon.php:310
+msgid "Please"
+msgstr ""
+
+#: stripe.addon.php:310 stripe.addon.php:314
+msgid "go back and try again"
+msgstr ""
+
+#: stripe.addon.php:314
+msgid "Transaction failed. The card has been declined. Please"
+msgstr ""
+
+#: stripe.addon.php:536
+msgid "The amount charged was incorrect. Please contact us directly"
+msgstr ""
+
+#: stripe.addon.php:539
+msgid "There are no products"
+msgstr ""
+
+#: stripe.addon.php:542
+msgid "Has occurred an error"
+msgstr ""
+
+#: stripe.addon.php:560
+msgid "Payment Gateway"
+msgstr ""
+
+#: stripe.addon.php:564
+msgid "Enable Stripe?"
+msgstr ""
+
+#: stripe.addon.php:570
+msgid "Integration Type"
+msgstr ""
+
+#: stripe.addon.php:575
+msgid "Classic - Valid for NON European Sellers (European Union Sellers)"
+msgstr ""
+
+#: stripe.addon.php:579
+msgid "SCA Ready  - Valid for European Sellers (European Union Sellers)"
+msgstr ""
+
+#: stripe.addon.php:585
+msgid "Label"
+msgstr ""
+
+#: stripe.addon.php:589
+msgid "Payment mode?"
+msgstr ""
+
+#: stripe.addon.php:593
+msgid "Test Mode"
+msgstr ""
+
+#: stripe.addon.php:595
+msgid "Live/Production Mode"
+msgstr ""
+
+#: stripe.addon.php:601
+msgid "Publishable key"
+msgstr ""
+
+#: stripe.addon.php:609
+msgid "Secret key"
+msgstr ""
+
+#: stripe.addon.php:616
+msgid "Language"
+msgstr ""
+
+#: stripe.addon.php:620
+msgid "auto (recommended)"
+msgstr ""
+
+#: stripe.addon.php:649
+msgid "Ask for billing address?"
+msgstr ""
+
+#: stripe.addon.php:656
+msgid "Subtitle for payment panel"
+msgstr ""
+
+#: stripe.addon.php:663
+msgid "URL of logo image"
+msgstr ""
+
+#: stripe.addon.php:667
+msgid ""
+"Absolute URL pointing to a square image of your brand or product. The "
+"recommended minimum size is 128x128px. The supported image types are: .gif, ."
+"jpeg, and .png"
+msgstr ""
